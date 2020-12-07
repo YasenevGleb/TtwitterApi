@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="APITwitterAPI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/APITwitterAPI_jar</output-path>
+    <root id="archive" name="APITwitterAPI.jar">
+      <element id="module-output" name="APITwitterAPI" />
+      <element id="dir-copy" path="Z:/modules/apache poi/poi-4.1.2" />
+      <element id="dir-copy" path="Z:/Downloads/poi/poi-bin-4.1.2-20200217/poi-4.1.2/lib/commons-math3-3.6" />
+      <element id="dir-copy" path="Z:/modules/jsonCorrect/json-20200518" />
+    </root>
+  </artifact>
+</component>
